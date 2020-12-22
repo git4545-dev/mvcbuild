@@ -3,6 +3,7 @@
   <groupId>SpringMVC</groupId>
   <artifactId>SpringMVC</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<package>war</package>
 	 <dependencies>
  
         <dependency>
